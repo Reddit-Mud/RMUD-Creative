@@ -1,0 +1,43 @@
+Ideas for handling player stats
+
+-Base Stats-
+
+1. Use a more traditional D&D-style stat set (Strength, Dexterity, Intelligence, etc). This is pretty 
+   time-tested, and covers nearly all bases as far as player actions and attributes are concerned. It 
+   also has the advantage of being familiar to players, so they don't have to learn a new stat system.
+   Rolling new characters could be handled in the usual way, with limits on repeat rolls and in-game
+   leveling bonuses. If we're not totally happy with the names of each stat, it would not be hard to 
+   rename it, although we might lose the familiarity aspect. 
+   
+2. Custom base stats would allow for more creative options to open up as far as describing the way
+   the world works and the players roll in it. However, this would also impose on us creating a system
+   in which these custom stats could be balanced. 
+   
+3. Homogenous base stats might be an option as well. All players start out with the same base stats, and
+   are free to customize those in various ways as their characters grow. This removes the player having
+   to make a game-defining decision in the early levels of their PC, which they may not be 100% satisfied
+   with later on, and open up the flexibility of allowing players to change roles as time goes on, the
+   way one might switch jobs in the real world, which might help keep the game fresh at later levels. 
+   
+-Vitality, Magic, and Movement-
+
+1. HP could be handled in the usual way, however, if we handle magic in a way that comes at the cost of 
+   HP, we'll need to institute some fairly easy rest and recovery methods so as to not punish the 
+   player for wanting to use magic. 
+   
+2. A seperate pool of points and "mana" for HP and magic, respectively, in the traditional way, though
+   we'd likely call them something else. HP could be aptly hamed "Health," or something similarly basic
+   and easily translatable as to it's purpose. "Mana" would be a little more tricky, as we'd have to come
+   up with some method of describing why it exists in a world that denies magic that could be plausible
+   in a scientific sense. So, simply claiming an Akashic Field or something would be difficult, unless
+   we drop into the realm of quantum mechanics and explain that field with the transfering of atomic 
+   forces, or something a kin to them. Doesn't have to be *actually* scientific, but just enough to retain
+   the cohesive deniability of magic. 
+   
+3. Movement/Endurance should be limited, so that a player cannot simply walk a continent end to end without 
+   suffering any effect what-so-ever. The Dreamscapes II MUD that I play on handles this fairly well, allowing
+   you a decent amount of movement before your character starts feeling the pains of exhaustion, yet is not
+   so small that you feel extremely restricted to how far you can go. It is balanced in a way to encourage
+   players to use various alternative forms of transport (in DSII, it is horse-drawn carts and teleportation). 
+   
+   
