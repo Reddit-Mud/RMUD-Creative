@@ -1,0 +1,39 @@
+Idea for Smartwatches as means of score keeping, stat tracking, and communication
+
+     As smart watches become more advanced and popular, they offer up a nifty way to handle a few things in-game.
+Smart phones are also an option, but for the sake of convenience with the "real world" feel of the game, the idea
+behind using an augmented version of real smartwatches offers information-at-a-glance concepts, as well as a 
+possible tie-in to one of the player death ideas, since it is worn on body, rather than kept in a pocket or bag. 
+I feel it also serves nicely to remove the ambigiuity of where these common information tools in MUDs are coming 
+from. 
+
+1. Keeping track of vitals: The most obvious convenience this could offer is displaying HP, MP and Endurance. It's
+   up to us to decide if we want to implement this to be displayed automtically with the command line, or have the 
+   player enter a command to see this data. Some muds avoid using numbers to display this, instead favoring descriptive
+   phrases like "bleeding awfully" or "unscathed," but if we want to use numbers, it would not be hard at all to 
+   explain why a PC might know his "health number" with modern medical diagnostics and the way that computers
+   parse digital packets of data, etc. 
+   
+2. Communications: the mail system could easily be explained with this and modern email/sms messaging. Not really 
+   much to explain on this idea, except that it gives us a mechanism to attribute to chat channels instead of 
+   having to suspend disbelief that a player can somehow communicate with someone across the world, or shout so loud
+   that the whole realm can hear it. The difference being is that we create the command to reflect that. For example,
+   a player wants to speak in the OOC channel, so they would use 'swooc,' or maybe 'swgen' for the general chat
+   channel, etc. 
+   
+3. Managing funds: rather than having to constantly return to banks (though we can leave the option there for players
+   who want a more traditional feel), they can manage payments and transfers digitally via their smartwatch. We could
+   assume, should we need to, that this is done with QR codes or some other currently accepted method. Just a matter of 
+   deciding on what, and how it reflects our choice of currency.
+   
+4. Information tracking: Again, with a smartwatch command, we could call up a sort of "player card" that shows full
+   stats, including base and vital, as well as skills known, and other info like bonuses and buffs. Pretty much 
+   anything player-data related could go on this card. 
+   
+5. Quest logging: This is something a few MUDs I've played on have gotten horribly wrong. In some, there isn't even 
+   a way to confirm which quest you are active on, or get the information you recieved when you started it. This is a 
+   pain for players who can't always play for hours, and must break in the middle of a quest only to return, having 
+   forgotten what they were doing. Each accepted quest data would be logged on a PC's smartwatch, and is able to 
+   be recalled at their convenience.
+   
+   
