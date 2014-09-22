@@ -1,0 +1,33 @@
+Ideas for combat and entities
+
+-Combat Mechanic-
+
+1. Autokill combat: a single kill command, combat flows with the same attack unless interrupted with a different
+   command. This is the way many of the MUDs I've played work, but not everyone likes it. If we want our game
+   to be less combat focused, this might be a good option for it's simplicity. 
+   
+2. Turn combat: I'm not sure of the proper term for this one, but the MUD that springs to mind is Dragonball.
+   Basically you issue a command for the specific attack you want to use, X-amount of ticks go, and the attack 
+   is executed, while your opponent is doing more or less the same thing. This option is much more tactical, and
+   tends to (in my opinion) make PvP more interesting, even though I generally shy away from PvP. This style is 
+   also open to use of scripting.
+   
+
+
+-Entities/Mobs-
+
+1. If we're strictly PvP (which I vote we avoid), then this is not really an issue unless we want to make denizen
+   NPCs killable. 
+   
+2. All mobs are human, or existing real creature: this makes some sense within the fantastique genre, since a 
+   bunch of mythical creatures running around would probably make it harder for us to validate the idea that
+   magic is rationally deniable. That isn't to say that these human/animal mobs couldn't still be imbued with 
+   some magical elements, but from a story perspective, it's less obvious if we keep it subtle. For example, we
+   could encounter a aggressive thug who might have some small mental attacks, or a tiger that can cause very
+   brief shock or paralysis. Both abilities could be explained by the effects of fear, even though the player
+   knows what's really going on, but for the sake of preserving a world that denies magic. 
+   
+3. Mixed mobs: Humans, real and invented creatures are all in the mix, but with the invented creatures being 
+   confined to very specific instances or appearing very sparingly. Either way would be interesting, and able 
+   to be worked into the story more or less the same way people think they've seen Bigfoot or chupacabras, or 
+   the plethora of other xenobiological creatures from various cultures. 
