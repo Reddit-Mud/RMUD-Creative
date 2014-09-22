@@ -5,6 +5,10 @@ Ideas for handling player death
    point to the PC having just had a hallucanatory experience in the sense of "I did this/I've been here
    before." This could play into the plausible deniabiliy of magic. The PC has been revived through magical
    means, but brushes it off as a fluke of memory. 
+   
+   [Blecki] I don't like this option for the simple fact that the player is going to know damn well that they
+   died. Whatever explanation is offered from the character's perspective is going to be ignored. Especially
+   if we have pvp - no player is going to brag that they caused someone to hallucinate. 
 
 2. PC only go unconscious, but do not actually "die." Loss of experience or some equipment would still apply,
    but the tone of the text would be handled to show the player was KO'ed. The PC's return could be handled 
@@ -14,9 +18,41 @@ Ideas for handling player death
    players wake. After getting KO'ed, their transport to the hospital could be explained as a friendly passerby
    contacting help while the player was uncosncious. 
    
+   [Blecki] I like the latter more than the former. Waking where they fell won't work at all with pvp. The
+   aggressor will just wait around to kill again.
+   
 3. PC's all automatically have a device (issued by game world law) that contacts help when the PC's vitals
    fail. Think of the Pipboys in the Fallout series, which could be used to handle other information such as
    stats/scoring, as well as communications. Again, we'd ideally have to have hospitals or clinics in each 
    town so that players have somewhere believable to wake in, but knowing they were KO'ed and revived. This
    idea has a slightly more sci-fi feel, but with the advances in modern smartwatches, I think it holds a lot 
    of value and saves us from having to use magical means of reviving/retreaving players. 
+   
+   [Blecki] I think this one and the latter half of #2 are very similar. All that's different is the explanation
+   of how they were found. These are very workable, and are pretty much how every mud ever works. You just
+   respawn. It scores points for player familiarity, but it's not terribly interesting.
+   
+[Blecki]
+4. Death is permanent. 
+
+   I designed a mud a few years ago that unfortunately never saw the light of day where players and their 
+   characters were very distinct entities. When they died, that character was lost forever - but they could 
+   start over with a new one and keep any abilities that weren't physical and any equipment that they had 
+   locked up somewhere or they were able to recover. I explained it by saying that the player was a pattern
+   of brain waves that could be copied into a new host easily. Players could pick from all sorts of bodies 
+   when they respawned - granted they could afford them. So there were lots of ordinary people, but also 
+   cats and gorillas and robots and the odd hulluvoo* or two.
+   
+   I don't think that would work here at all. I've seen other games try and do it with the new character
+   being a blood relative of the former, but that quickly becomes absurd. I'm playing as Sally, and I die,
+   and now I am Sally's daughter. Except I've been playing Sally for a while and I know damn well she was 
+   never pregnant. Also Sally is 22 and her daughter is 18. What? This won't work either.
+   
+   But there might be something that does work. It could be tied into the world's magic. It could also
+   work if character progression is based on knowledge, not on raising stats.
+   
+   
+   
+   
+* A hulluvoo is a super intelligent shade of the color blue. This is, perhaps, the only interactive medium 
+   where such a thing is possible.
